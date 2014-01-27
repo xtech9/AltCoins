@@ -40,6 +40,20 @@ fields to add
 * Market Cap
 * Launch Date
 
+## exchanges
+
+* [https://www.cryptsy.com](https://www.cryptsy.com/)
+* [https://btc-e.com](https://btc-e.com)
+* [https://bter.com](https://bter.com)
+* [https://www.crypto-trade.com](https://www.crypto-trade.com)
+* [https://mcxnow.com](https://mcxnow.com)
+* [https://vircurex.com](https://vircurex.com)
+* [https://www.coins-e.com](https://www.coins-e.com)
+* [https://btcltc.com](https://btcltc.com)
+* [https://coinex.pw](https://coinex.pw)
+* [http://www.btc38.com](http://www.btc38.com)
+
+
 ## references
 
 * https://bitcointalk.org/index.php?topic=134179.0

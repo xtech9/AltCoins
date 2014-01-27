@@ -145,8 +145,8 @@
 
 # import error
 
-https://bitcointalk.org/index.php?topic=208747
-https://bitcointalk.org/index.php?topic=384097.0
-https://bitcointalk.org/index.php?topic=268228.0
-https://bitcointalk.org/index.php?topic=232254.0
-KED https://bitcointalk.org/index.php?topic=280114.0
+* https://bitcointalk.org/index.php?topic=208747
+* https://bitcointalk.org/index.php?topic=384097.0
+* https://bitcointalk.org/index.php?topic=268228.0
+* https://bitcointalk.org/index.php?topic=232254.0
+* https://bitcointalk.org/index.php?topic=280114.0
