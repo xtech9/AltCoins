@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-| CCC        | Name           | more  |
+| CCC        | currency name           | more fields |
 | ------------- |:-------------:| -----:|
 | BTC| [Bitcoin](http://bitcoin.org/) | | 
 | LTC| [Litecoin](http://litecoin.org/) | | 
@@ -25,7 +25,7 @@
 | FRC| [Freicoin](http://www.freicoin.org/) | | 
 | IXC| [IxCoin](https://bitcointalk.org/index.php?topic=36218.0) | | 
 | CL| [Copperlark](https://bitcointalk.org/index.php?topic=225891.0) | | 
-| CGB| [CryptogenicBullion](https://bitcointalk.org/index.php?topic=245086.0) | | 
+| CGB| [CryptogenicBullion](https://bitcointalk.org/index.php?topic=245086.0) | 
 | MNC| [Mincoin](https://bitcointalk.org/index.php?topic=165397.0) | | 
 | BQC| [BBQCoin](https://bitcointalk.org/index.php?topic=93437.0) | | 
 | GLD| [Goldcoin](https://bitcointalk.org/index.php?topic=231834.0) | | 
@@ -89,7 +89,6 @@
 | DPS| [DollarPounds](https://bitcointalk.org/index.php?topic=274194.0) | | 
 | CRC| [Craftcoin](https://bitcointalk.org/index.php?topic=250343.0) | | 
 | KING| [KingCoin](https://bitcointalk.org/index.php?topic=278834.0) | | 
-| KED| [+](https://bitcointalk.org/index.php?topic=280114.0) | | 
 | CP2| [CPU2coin](https://bitcointalk.org/index.php?topic=278382.0) | | 
 | ASC| [AsicCoin](https://bitcointalk.org/index.php?topic=292501.0) | | 
 | MAP| [Maples](https://bitcointalk.org/index.php?topic=288690.0) | | 
@@ -129,7 +128,6 @@
 | REC| [RealCoin](https://bitcointalk.org/index.php?topic=227149.0) | | 
 | ALF| [Alphacoin](https://bitcointalk.org/index.php?topic=230868.0) | | 
 | RED| [Redcoin](https://bitcointalk.org/index.php?topic=246693.0) | | 
-| One| [last](https://bitcointalk.org/index.php?topic=232254.0) | | 
 | ORB| [Orbitcoin](https://bitcointalk.org/index.php?topic=265555.0) | | 
 | TDC| [TradeCoin](https://bitcointalk.org/index.php?topic=242857.0) | | 
 | NUC| [NuCoin](https://bitcointalk.org/index.php?topic=241128.0) | | 
@@ -139,7 +137,7 @@
 | HYC| [Hypercoin](https://bitcointalk.org/index.php?topic=218737.0) | | 
 | CLC| [Coiledcoin](https://bitcointalk.org/index.php?topic=56675.0) | | 
 | RUC| [Rucoin](https://bitcointalk.org/index.php?topic=48582.0) | | 
-| TimeKoin| [](https://bitcointalk.org/index.php?topic=88467.0) | | 
+| TimeKoin | [TimeKoin](https://bitcointalk.org/index.php?topic=88467.0) | | 
 | HUC| [HunterCoin](https://bitcointalk.org/index.php?topic=300538.0) | | 
 | JPU| [JCoin](https://bitcointalk.org/index.php?topic=264556.0) | | 
 | EMU| [Emunie](https://bitcointalk.org/index.php?topic=246463.0) | | 
@@ -147,6 +145,8 @@
 
 # import error
 
-| failed| [to](https://bitcointalk.org/index.php?topic=208747) | | 
-| | [VSC](https://bitcointalk.org/index.php?topic=384097.0) | | 
-| After| [very](https://bitcointalk.org/index.php?topic=268228.0) | | 
+https://bitcointalk.org/index.php?topic=208747
+https://bitcointalk.org/index.php?topic=384097.0
+https://bitcointalk.org/index.php?topic=268228.0
+https://bitcointalk.org/index.php?topic=232254.0
+KED https://bitcointalk.org/index.php?topic=280114.0

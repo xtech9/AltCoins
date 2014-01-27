@@ -7,6 +7,10 @@ work in process.
 
 submit a pull request
 
+# complete list
+
+[AltCoins](alts.md)
+
 ## Market stats
 
 as of 27/01/2014 AD
@@ -27,14 +31,14 @@ as of 27/01/2014 AD
 
 fields to add
 
-algorithm (Proof of Work, Proof of Stake, ...)
-blocktime
-coin supply
-difficulty adjustment
-hashing algorithm
-Initial Reward 
-Market Cap
-Launch Date
+* algorithm (Proof of Work, Proof of Stake, ...)
+* blocktime
+* coin supply
+* difficulty adjustment
+* hashing algorithm
+* Initial Reward 
+* Market Cap
+* Launch Date
 
 ## references
 
