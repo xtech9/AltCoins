@@ -12,7 +12,7 @@
 
 | CCC        | currency name           | launched | exchange listed |
 | ------------- |:-------------:| -----:|:-------------:|
-| NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | | | 
+| NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | 25/11/2013 | ? | 
 | DOGE| [Dogecoin](https://bitcointalk.org/index.php?topic=361813.0) | 8/12/2013 | yes |
 | MSC| [mastercoin](https://bitcointalk.org/index.php?topic=265488.0) | 9/1/2013| no |
 | NMC| [Namecoin](http://namecoin.info/) | 4/11/2011 | yes | 
