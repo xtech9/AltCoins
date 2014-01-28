@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 | CCC        | currency name           | launched | exchange listed |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:|:-------------:|
 | BTC| [Bitcoin](http://bitcoin.org/) | 3/1/2009 | yes |  
 | LTC| [Litecoin](http://litecoin.org/) | 1/10/2011 | yes |
 | PPC| [PEERCoin](https://bitcointalk.org/index.php?topic=101820.0) | 8/12/2012 | yes |
