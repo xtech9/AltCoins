@@ -46,27 +46,28 @@ fields to add
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [https://bter.com](https://bter.com) | 20 | 0.2%| yes |
 | [https://www.cryptsy.com](https://www.cryptsye.com/) | 120  | 0.2% | yes |
-| [https://vircurex.com](https://vircurex.com) | 18 | yes |
-| [https://coinex.pw](https://coinex.pw) | 46 | no |
-
+| [https://vircurex.com](https://vircurex.com) | 18 | 0.2% | yes |
+| [https://coinex.pw](https://coinex.pw) | 46 | ? | no |
+| [https://coinedup.com](https://coinedup.com) | 26 |  0.0% | no |
+ 
 ## other exchanges
 
 | exchange        | #altcoins          | fees | API |
-| ------------- |:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:|
 | [https://btc-e.com](https://btc-e.com) | 8 | 0.2%| yes |
-| [https://www.coins-e.com](https://www.coins-e.com) | 42 | yes | 
-| [https://www.crypto-trade.com](https://www.crypto-trade.com) | 9 |
+| [https://www.coins-e.com](https://www.coins-e.com) | 42 | | yes | 
+| [https://www.crypto-trade.com](https://www.crypto-trade.com) | 9 | | |
 | [https://mcxnow.com](https://mcxnow.com) | 11 | | |
-| [http://www.btc38.com](http://www.btc38.com) | | |
-| [https://btcltc.com](https://btcltc.com) | | |
-| [https://www.okcoin.com/](https://www.okcoin.com/)
+| [http://www.btc38.com](http://www.btc38.com) | | | | 
+| [https://btcltc.com](https://btcltc.com) | | | |
+| [https://www.okcoin.com/](https://www.okcoin.com/)| | | |
 
 ## realtime info
 
 * [http://bitinfocharts.com](http://bitinfocharts.com)
 * [http://coinmarketcap.com](http://coinmarketcap.com)
 * [http://www.cryptocoincharts.info](http://www.cryptocoincharts.info)
-* [http://www.cryptmarketcap.com/](http://www.cryptmarketcap.com/)
+* [http://www.cryptmarketcap.com](http://www.cryptmarketcap.com)
 
 ## references
 
