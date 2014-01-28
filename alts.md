@@ -1,27 +1,39 @@
 # Cryptocurrencies
 
+## Tier 1
+
 | CCC        | currency name           | launched | exchange listed |
 | ------------- |:-------------:| -----:|:-------------:|
 | BTC| [Bitcoin](http://bitcoin.org/) | 3/1/2009 | yes |  
 | LTC| [Litecoin](http://litecoin.org/) | 1/10/2011 | yes |
 | PPC| [PEERCoin](https://bitcointalk.org/index.php?topic=101820.0) | 8/12/2012 | yes |
-| NMC| [Namecoin](http://namecoin.info/) | 4/11/2011 | yes | 
+
+## Tier 2
+
+| NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | | | 
 | DOGE| [Dogecoin](https://bitcointalk.org/index.php?topic=361813.0) | 8/12/2013 | yes |
 | MSC| [mastercoin](https://bitcointalk.org/index.php?topic=265488.0) | 9/1/2013| no |
-| NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | | | 
-| MEC| [Megacoin](https://bitcointalk.org/index.php?topic=218851.0) | | | 
-| XPM| [PrimeCoin](https://bitcointalk.org/index.php?topic=251850.0) | | | 
-| NVC| [NovaCoin](https://bitcointalk.org/index.php?topic=143221.0) | | | 
+| NMC| [Namecoin](http://namecoin.info/) | 4/11/2011 | yes | 
 | QRK| [Quark](https://bitcointalk.org/index.php?topic=260031.0) | | | 
 | PTS| [ProtoShares](https://bitcointalk.org/index.php?topic=325261.0) | | | 
 | WDC| [Worldcoin](https://bitcointalk.org/index.php?topic=204894.0) | | | 
+| MEC| [Megacoin](https://bitcointalk.org/index.php?topic=218851.0) | | | 
+| XPM| [PrimeCoin](https://bitcointalk.org/index.php?topic=251850.0) | | | 
+
+# Tier 3
+
+| IFC| [infinitecoin](https://bitcointalk.org/index.php?topic=225891.0) | | | 
 | FTC| [FeatherCoin](https://bitcointalk.org/index.php?topic=178286.0) | | | 
+| NVC| [NovaCoin](https://bitcointalk.org/index.php?topic=143221.0) | | | 
+| TIX| [Tickets](https://bitcointalk.org/index.php?topic=297666.0) | | | 
 | DVC| [Devcoin](https://bitcointalk.org/index.php?topic=34586.0) | | | 
 | ZET| [Zetacoin](https://bitcointalk.org/index.php?topic=267545.0) | | | 
-| IFC| [infinitecoin](https://bitcointalk.org/index.php?topic=225891.0) | | | 
 | TRC| [Terracoin](http://terracoin.org/) | | | 
-| ANC| [Anoncoin](https://bitcointalk.org/index.php?topic=227287.0) | | | 
 | DGC| [DigitalCoin](https://bitcointalk.org/index.php?topic=209508.0) | | | 
+| ANC| [Anoncoin](https://bitcointalk.org/index.php?topic=227287.0) | | | 
+
+# unsorted
+
 | FRC| [Freicoin](http://www.freicoin.org/) | | | 
 | IXC| [IxCoin](https://bitcointalk.org/index.php?topic=36218.0) | | | 
 | CL| [Copperlark](https://bitcointalk.org/index.php?topic=225891.0) | | | 
@@ -39,7 +51,6 @@
 | BLC| [Blakecoin](https://bitcointalk.org/index.php?topic=306894.0) | | | 
 | TAG| [TagCoin](https://bitcointalk.org/index.php?topic=317408.0) | | | 
 | UN| [Unobtanium](https://bitcointalk.org/index.php?topic=313126.0) | | | 
-| TIX| [Tickets](https://bitcointalk.org/index.php?topic=297666.0) | | | 
 | PXC| [PhenixCoin](https://bitcointalk.org/index.php?topic=211165.0) | | | 
 | PyBC| [Coin](https://bitcointalk.org/index.php?topic=252152.0) | | | 
 | FRK| [Franko](https://bitcointalk.org/index.php?topic=202417.0) | | | 
@@ -129,6 +140,9 @@
 | ALF| [Alphacoin](https://bitcointalk.org/index.php?topic=230868.0) | | | 
 | RED| [Redcoin](https://bitcointalk.org/index.php?topic=246693.0) | | | 
 | ORB| [Orbitcoin](https://bitcointalk.org/index.php?topic=265555.0) | | | 
+
+# inactive
+
 | TDC| [TradeCoin](https://bitcointalk.org/index.php?topic=242857.0) | | | 
 | NUC| [NuCoin](https://bitcointalk.org/index.php?topic=241128.0) | | | 
 | 6CN| [6coin](https://bitcointalk.org/index.php?topic=239201.0) | | | 
@@ -138,10 +152,13 @@
 | CLC| [Coiledcoin](https://bitcointalk.org/index.php?topic=56675.0) | | | 
 | RUC| [Rucoin](https://bitcointalk.org/index.php?topic=48582.0) | | | 
 | TimeKoin | [TimeKoin](https://bitcointalk.org/index.php?topic=88467.0) | | | 
+
+# commercial/other
+
+| Ripples| [XRP](http://ripple.com) | | | 
 | HUC| [HunterCoin](https://bitcointalk.org/index.php?topic=300538.0) | | | 
 | JPU| [JCoin](https://bitcointalk.org/index.php?topic=264556.0) | | | 
 | EMU| [Emunie](https://bitcointalk.org/index.php?topic=246463.0) | | | 
-| Ripples| [XRP](http://ripple.com) | | | 
 
 # import error
 

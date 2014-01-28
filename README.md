@@ -22,8 +22,8 @@ as of 27/01/2014 AD
 
 ## market tiers
 
-1. major currencies with widespread worldwide use
-2. minor use or restricted use
+1. major currencies with widespread worldwide use (>100M$ marketcap)
+2. minor use or restricted use. exchange listed 
 3. laboratory
 4. suspected scam, virus, pump&dump
 
