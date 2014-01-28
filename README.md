@@ -1,13 +1,13 @@
 AltCoins
 ========
 
-a more structured list of alternative cryptocurrencies
+a structured list of alternative cryptocurrencies
 
-* buyer beware. 
+* buyer beware
 * work in progress
 * pull requests welcome
 
-# complete list
+## list of AltCoins
 
 [AltCoins](alts.md)
 
