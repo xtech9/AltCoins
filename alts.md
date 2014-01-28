@@ -1,25 +1,25 @@
 # Cryptocurrencies
 
-| CCC        | currency name           | more fields |
+| CCC        | currency name           | launched | exchange listed |
 | ------------- |:-------------:| -----:|
-| BTC| [Bitcoin](http://bitcoin.org/) | | 
-| LTC| [Litecoin](http://litecoin.org/) | | 
-| PPC| [PEERCoin](https://bitcointalk.org/index.php?topic=101820.0) | | 
-| NMC| [Namecoin](http://namecoin.info/) | | 
-| MSC| [mastercoin](https://bitcointalk.org/index.php?topic=265488.0) | | 
+| BTC| [Bitcoin](http://bitcoin.org/) | 3/1/2009 | yes |  
+| LTC| [Litecoin](http://litecoin.org/) | 1/10/2011 | yes |
+| PPC| [PEERCoin](https://bitcointalk.org/index.php?topic=101820.0) | 8/12/2012 | yes |
+| NMC| [Namecoin](http://namecoin.info/) | 4/11/2011 | yes | 
+| DOGE| [Dogecoin](https://bitcointalk.org/index.php?topic=361813.0) | | 
+| MSC| [mastercoin](https://bitcointalk.org/index.php?topic=265488.0) | 9/1/2013| no |
 | NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | | 
-| QRK| [Quark](https://bitcointalk.org/index.php?topic=260031.0) | | 
-| PTS| [ProtoShares](https://bitcointalk.org/index.php?topic=325261.0) | | 
 | MEC| [Megacoin](https://bitcointalk.org/index.php?topic=218851.0) | | 
 | XPM| [PrimeCoin](https://bitcointalk.org/index.php?topic=251850.0) | | 
 | NVC| [NovaCoin](https://bitcointalk.org/index.php?topic=143221.0) | | 
+| QRK| [Quark](https://bitcointalk.org/index.php?topic=260031.0) | | 
+| PTS| [ProtoShares](https://bitcointalk.org/index.php?topic=325261.0) | | 
 | WDC| [Worldcoin](https://bitcointalk.org/index.php?topic=204894.0) | | 
 | FTC| [FeatherCoin](https://bitcointalk.org/index.php?topic=178286.0) | | 
 | DVC| [Devcoin](https://bitcointalk.org/index.php?topic=34586.0) | | 
 | ZET| [Zetacoin](https://bitcointalk.org/index.php?topic=267545.0) | | 
 | IFC| [infinitecoin](https://bitcointalk.org/index.php?topic=225891.0) | | 
 | TRC| [Terracoin](http://terracoin.org/) | | 
-| DOGE| [Dogecoin](https://bitcointalk.org/index.php?topic=361813.0) | | 
 | ANC| [Anoncoin](https://bitcointalk.org/index.php?topic=227287.0) | | 
 | DGC| [DigitalCoin](https://bitcointalk.org/index.php?topic=209508.0) | | 
 | FRC| [Freicoin](http://www.freicoin.org/) | | 

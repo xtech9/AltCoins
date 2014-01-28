@@ -1,11 +1,11 @@
 AltCoins
 ========
 
-a more structured of alternative cryptocurrencies. buyer beware. 
+a more structured list of alternative cryptocurrencies
 
-work in process.
-
-submit a pull request
+* buyer beware. 
+* work in progress
+* pull requests welcome
 
 # complete list
 
@@ -23,7 +23,7 @@ as of 27/01/2014 AD
 ## market tiers
 
 1. major currencies with widespread worldwide use
-2. minor use, or restricted use
+2. minor use or restricted use
 3. laboratory
 4. suspected scam, virus, pump&dump
 
@@ -55,12 +55,11 @@ fields to add
 | exchange        | #altcoins          | fees | API |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [https://btc-e.com](https://btc-e.com) | 8 | 0.2%| yes |
-| [https://www.coins-e.com](https://www.coins-e.com) | 42 | | yes | 
-| [https://www.crypto-trade.com](https://www.crypto-trade.com) | 9 | | |
-| [https://mcxnow.com](https://mcxnow.com) | 11 | | |
-| [http://www.btc38.com](http://www.btc38.com) | | | | 
-| [https://btcltc.com](https://btcltc.com) | | | |
-| [https://www.okcoin.com/](https://www.okcoin.com/)| | | |
+| [https://www.coins-e.com](https://www.coins-e.com) | 42 | ? | yes | 
+| [https://www.crypto-trade.com](https://www.crypto-trade.com) | 9 | ? | ? |
+| [https://mcxnow.com](https://mcxnow.com) | 11 | ? | ? |
+| [http://www.btc38.com](http://www.btc38.com) | ? | ? | ? | 
+| [https://www.okcoin.com/](https://www.okcoin.com/)| ? | ? | ? |
 
 ## realtime info
 
