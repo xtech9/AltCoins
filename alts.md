@@ -10,6 +10,8 @@
 
 ## Tier 2
 
+| CCC        | currency name           | launched | exchange listed |
+| ------------- |:-------------:| -----:|:-------------:|
 | NXT| [Nxt](https://bitcointalk.org/index.php?topic=345619.0) | | | 
 | DOGE| [Dogecoin](https://bitcointalk.org/index.php?topic=361813.0) | 8/12/2013 | yes |
 | MSC| [mastercoin](https://bitcointalk.org/index.php?topic=265488.0) | 9/1/2013| no |
@@ -22,6 +24,8 @@
 
 # Tier 3
 
+| CCC        | currency name           | launched | exchange listed |
+| ------------- |:-------------:| -----:|:-------------:|
 | IFC| [infinitecoin](https://bitcointalk.org/index.php?topic=225891.0) | | | 
 | FTC| [FeatherCoin](https://bitcointalk.org/index.php?topic=178286.0) | | | 
 | NVC| [NovaCoin](https://bitcointalk.org/index.php?topic=143221.0) | | | 
@@ -34,6 +38,8 @@
 
 # unsorted
 
+| CCC        | currency name           | launched | exchange listed |
+| ------------- |:-------------:| -----:|:-------------:|
 | FRC| [Freicoin](http://www.freicoin.org/) | | | 
 | IXC| [IxCoin](https://bitcointalk.org/index.php?topic=36218.0) | | | 
 | CL| [Copperlark](https://bitcointalk.org/index.php?topic=225891.0) | | | 
@@ -143,6 +149,8 @@
 
 # inactive
 
+| CCC        | currency name           | launched | exchange listed |
+| ------------- |:-------------:| -----:|:-------------:|
 | TDC| [TradeCoin](https://bitcointalk.org/index.php?topic=242857.0) | | | 
 | NUC| [NuCoin](https://bitcointalk.org/index.php?topic=241128.0) | | | 
 | 6CN| [6coin](https://bitcointalk.org/index.php?topic=239201.0) | | | 
@@ -155,6 +163,8 @@
 
 # commercial/other
 
+| CCC        | currency name           | launched | exchange listed |
+| ------------- |:-------------:| -----:|:-------------:|
 | Ripples| [XRP](http://ripple.com) | | | 
 | HUC| [HunterCoin](https://bitcointalk.org/index.php?topic=300538.0) | | | 
 | JPU| [JCoin](https://bitcointalk.org/index.php?topic=264556.0) | | | 
