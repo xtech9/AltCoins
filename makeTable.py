@@ -13,8 +13,10 @@ def get_data():
 
 def tier_write(f,data):
     #todo: pull from csv head
-    headers = '| CCC | currency name  | launched | exchange listed |'
-    sep = '| ------------- |:-------------:| -----:|:-------------:|'
+    head  = ['CCC','name','URL','launched','exchange listed','tier']
+    
+    headers = '|'.join(head)
+    sep = '| ------------- |:-------------:|:-----:|:-----:|:-------------:|'
 
     f.write(headers + '\n')
     f.write(sep + '\n')
