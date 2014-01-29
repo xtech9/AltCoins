@@ -18,7 +18,7 @@ def tier_write(f,data):
     headers = '|'.join(head)
     sep = '| ------------- |:-------------:|:-----:|:-----:|:-------------:|'
 
-    f.write(headers + '\n')
+    f.write('|' + headers + '|\n')
     f.write(sep + '\n')
 
     i = 1

@@ -2,7 +2,7 @@
 
 ## tier1
 
-CCC|name|URL|launched|exchange listed|tier
+|CCC|name|URL|launched|exchange listed|tier|
 | ------------- |:-------------:|:-----:|:-----:|:-------------:|
 |BTC|Bitcoin|http://bitcoin.org/|3/1/2009|yes|tier1|
 |LTC|Litecoin|http://litecoin.org/|1/10/2011|yes|tier1|
@@ -11,7 +11,7 @@ CCC|name|URL|launched|exchange listed|tier
 
 ## tier2
 
-CCC|name|URL|launched|exchange listed|tier
+|CCC|name|URL|launched|exchange listed|tier|
 | ------------- |:-------------:|:-----:|:-----:|:-------------:|
 |DOGE|Dogecoin|https://bitcointalk.org/index.php?topic=361813.0|8/12/2013|yes|tier2|
 |MSC|mastercoin|https://bitcointalk.org/index.php?topic=265488.0|9/1/2013|no|tier2|
@@ -34,7 +34,7 @@ CCC|name|URL|launched|exchange listed|tier
 
 ## tier3
 
-CCC|name|URL|launched|exchange listed|tier
+|CCC|name|URL|launched|exchange listed|tier|
 | ------------- |:-------------:|:-----:|:-----:|:-------------:|
 |IXC|IxCoin|https://bitcointalk.org/index.php?topic=36218.0|||tier3|
 |CL|Copperlark|https://bitcointalk.org/index.php?topic=225891.0|||tier3|
@@ -145,7 +145,7 @@ CCC|name|URL|launched|exchange listed|tier
 
 ## tier5
 
-CCC|name|URL|launched|exchange listed|tier
+|CCC|name|URL|launched|exchange listed|tier|
 | ------------- |:-------------:|:-----:|:-----:|:-------------:|
 |NUC|NuCoin|https://bitcointalk.org/index.php?topic=241128.0|||tier5|
 |6CN|6coin|https://bitcointalk.org/index.php?topic=239201.0|||tier5|
@@ -159,7 +159,7 @@ CCC|name|URL|launched|exchange listed|tier
 
 ## tier6
 
-CCC|name|URL|launched|exchange listed|tier
+|CCC|name|URL|launched|exchange listed|tier|
 | ------------- |:-------------:|:-----:|:-----:|:-------------:|
 |HUC|HunterCoin|https://bitcointalk.org/index.php?topic=300538.0|||tier6|
 |JPU|JCoin|https://bitcointalk.org/index.php?topic=264556.0|||tier6|
