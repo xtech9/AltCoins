@@ -79,5 +79,5 @@ if __name__=='__main__':
         for tier in tiers:
             print tier
             f.write('\n## ' + tier + '\n\n')
-            tierdata = [x for x in coins if x[-1] == tier]
+            tierdata = [x for x in coins if x[TIER] == tier]
             tier_write(f,tierdata)
