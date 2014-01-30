@@ -3,6 +3,8 @@
 make markdown table from csv data
 """
 
+from cryptsy import *
+
 def get_data():
     """get as array"""
     with open('alts.csv','r') as f:
@@ -18,11 +20,20 @@ def transform_data(data):
         if 'bitcointalk' in url:
             url = '[bitcointalk](' + url + ')'
         d[2] = url
+
+    coins = cryptsy_coins()
+    for d in data:
+        if d[0] in coins.keys():
+            print 'cryptsy'
+            d[-2] = " X "
+        else:
+            d[-2] = ""
+
     return data
 
 def tier_write(f,data):
     #todo: pull from csv head
-    head  = ['CCC','name','URL','launched','exchange listed','tier']
+    head  = ['CCC','name','URL','launched','cryptsy listed','tier']
     
     headers = '|'.join(head)
     sep = ':---:|:---:|:---:|:---:|:---:|:---:'
