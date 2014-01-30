@@ -30,7 +30,6 @@ def transform_data(data):
     #for each exc
     for d in data:
         d += ['','']
-        print len(d)
 
     for d in data:
         url = d[LINK]
@@ -43,14 +42,12 @@ def transform_data(data):
 
     for d in data:
         if d[0] in cryptsy.keys():
-            print 'cryptsy'
             d[CRYP] = "X"
         else:
             d[CRYP] = ""
 
     for d in data:
         if d[0] in bter:
-            print 'bter'
             d[BTER] = "X"
         else:
             d[BTER] = ""
@@ -77,7 +74,7 @@ if __name__=='__main__':
         f.write('# Alternative Cryptocurrencies\n')
         coins = get_data()
         coins = transform_data(coins)
-        tiers = set([x[-1] for x in coins])
+        tiers = set([x[TIER] for x in coins])
         tiers = sorted(tiers)
         for tier in tiers:
             print tier
