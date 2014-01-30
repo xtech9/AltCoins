@@ -4,6 +4,7 @@ make markdown table from csv data
 """
 
 from cryptsy import *
+from bter import *
 
 def get_data():
     """get as array"""
@@ -13,21 +14,46 @@ def get_data():
         arr = [line.split(';') for line in lines]
         return arr
 
+CCC = 0
+NAME = 1
+LINK = 2
+LAUNCH = 3
+TIER = 4
+CRYP = 5
+BTER = 6
+
 def transform_data(data):
-    """markdown beautify"""
+    """transform data 
+    markdown beautify
+    insert exchange data"""
+
+    #for each exc
     for d in data:
-        url = d[2]
+        d += ['','']
+        print len(d)
+
+    for d in data:
+        url = d[LINK]
         if 'bitcointalk' in url:
             url = '[bitcointalk](' + url + ')'
-        d[2] = url
+        d[LINK] = url
 
-    coins = cryptsy_coins()
+    cryptsy = cryptsy_coins()
+    bter = bter_coins()
+
     for d in data:
-        if d[0] in coins.keys():
+        if d[0] in cryptsy.keys():
             print 'cryptsy'
-            d[-2] = " X "
+            d[CRYP] = "X"
         else:
-            d[-2] = ""
+            d[CRYP] = ""
+
+    for d in data:
+        if d[0] in bter:
+            print 'bter'
+            d[BTER] = "X"
+        else:
+            d[BTER] = ""
 
     return data
 
