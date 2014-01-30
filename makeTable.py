@@ -59,7 +59,7 @@ def transform_data(data):
 
 def tier_write(f,data):
     #todo: pull from csv head
-    head  = ['CCC','name','URL','launched','cryptsy listed','tier']
+    head  = ['CCC','name','URL','launched','tier','cryptsy listing','bter listing']
     
     headers = '|'.join(head)
     sep = ':---:|:---:|:---:|:---:|:---:|:---:'

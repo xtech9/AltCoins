@@ -2,7 +2,7 @@
 
 ## 
 
-|CCC|name|URL|launched|cryptsy listed|tier|
+|CCC|name|URL|launched|tier|cryptsy listing|bter listing|
 :---:|:---:|:---:|:---:|:---:|:---:
 BTC|Bitcoin|http://bitcoin.org/|3/1/2009|tier1||
 MSC|mastercoin|[bitcointalk](https://bitcointalk.org/index.php?topic=265488.0)|9/1/2013|tier2||
@@ -120,7 +120,7 @@ EMU|Emunie|[bitcointalk](https://bitcointalk.org/index.php?topic=246463.0)||tier
 
 ## X
 
-|CCC|name|URL|launched|cryptsy listed|tier|
+|CCC|name|URL|launched|tier|cryptsy listing|bter listing|
 :---:|:---:|:---:|:---:|:---:|:---:
 LTC|Litecoin|http://litecoin.org/|1/10/2011|tier1|X|X
 PPC|PEERCoin|[bitcointalk](https://bitcointalk.org/index.php?topic=101820.0)|8/12/2012|tier1|X|X
