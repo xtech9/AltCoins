@@ -62,7 +62,7 @@ def tier_write(f,data):
     head  = ['CCC','name','URL','launched','tier','cryptsy listing','bter listing']
     
     headers = '|'.join(head)
-    sep = ':---:|:---:|:---:|:---:|:---:|:---:'
+    sep = ':---:|:---:|:---:|:---:|:---:|:---:|:---:'
 
     f.write('|' + headers + '|\n')
     f.write(sep + '\n')
