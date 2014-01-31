@@ -19,6 +19,8 @@ NAME = 1
 LINK = 2
 LAUNCH = 3
 TIER = 4
+
+#messy hack
 CRYP = 5
 BTER = 6
 
@@ -27,11 +29,15 @@ def transform_data(data):
     markdown beautify
     insert exchange data"""
 
-    #for each exc
+    #for each exc add a column
+    newd = list()
     for d in data:
-        d += ['','']
-
+        d += ['-','-']
+        newd.append(d)
+    data = newd
+        
     for d in data:
+        #print len(d)
         link = d[LINK]
         if 'bitcointalk' in link:
             link = '<a href="' + link + '">bitcointalk</a>'
@@ -56,9 +62,17 @@ def transform_data(data):
 
     return data
 
+def ignore_col(data,col):
+    newd = list()
+    for d in data:
+        newrow = d[:col] + d[col+1:]
+        newd.append(newrow)
+    return newd
+        
+
 def tier_write(f,data):
     #todo: pull from csv head
-    head  = ['CCC','name','URL','launched','tier','cryptsy listing','bter listing']
+    head  = ['CCC','name','URL','launched','cryptsy listing','bter listing']
     s = "<table><tr>"
     for h in head:
         s +="<th>" + h + "</th>"
@@ -67,6 +81,7 @@ def tier_write(f,data):
     f.write(s)
     s = ""
     i = 1
+    data = ignore_col(data,4)
     for row in data:
         r = "<tr>"
         for el in row:
@@ -81,8 +96,8 @@ if __name__=='__main__':
     with open('alts.html','w') as f:
         f.write('<h1>Alternative Cryptocurrencies</h1>\n')
         coins = get_data()
-        coins = transform_data(coins)
         tiers = set([x[TIER] for x in coins])
+        coins = transform_data(coins)
         tiers = sorted(tiers)
         for tier in tiers:
             print tier
