@@ -6,6 +6,18 @@ make static html site
 from cryptsy import *
 from bter import *
 
+
+
+def get_launch():
+     coins = dict()
+     with open('launchdates.csv','r') as f:
+          lines = f.readlines()
+          for line in lines:
+               line = line.replace('\n','')
+               arr = line.split(';')
+               coins[arr[0]] = arr[1]
+     return coins
+
 def get_data():
     """get as array"""
     with open('alts.csv','r') as f:
@@ -47,6 +59,12 @@ def transform_data(data):
 
     cryptsy = cryptsy_coins()
     bter = bter_coins()
+    launch = get_launch()
+
+    for d in data:
+        if d[0] in launch.keys():
+            ld = launch[d[0]]
+            d[LAUNCH] = ld
 
     for d in data:
         if d[0] in cryptsy.keys():
