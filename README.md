@@ -7,6 +7,8 @@ a structured list of alternative cryptocurrencies
 * work in progress
 * pull requests welcome
 
+up to date info the gh-pages branch.
+
 ## list of AltCoins
 
 [AltCoins](alts.md)
