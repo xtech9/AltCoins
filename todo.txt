@@ -1,0 +1,7 @@
+# todo
+
+* domain
+
+* months to numbers
+
+* donations?
