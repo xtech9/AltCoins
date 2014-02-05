@@ -3,6 +3,8 @@
 make markdown table from csv data
 """
 
+months = {'January':1, 'February':2,'March':3,'April':4,'May':5,'June':6,'July':7, 'August':8,'September':9,'October':10,'November':11,'December':12}
+
 from cryptsy import *
 from bter import *
 
@@ -27,9 +29,20 @@ def transform_data(data):
     markdown beautify
     insert exchange data"""
 
-    #for each exc
+    #for each exchange append a col
     for d in data:
         d += ['','']
+
+
+    for d in data:
+        ldate = d[LAUNCH]
+        for m in months:
+            if m in ldate:
+                ldate = ldate.replace(m,months[m])
+
+        d[LAUNCH] = ldate
+
+
 
     for d in data:
         url = d[LINK]
