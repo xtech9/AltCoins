@@ -7,9 +7,13 @@ a structured list of alternative cryptocurrencies
 * work in progress
 * pull requests welcome
 
-up to date info the gh-pages branch.
+up to date info the gh-pages branch. 
 
-## list of AltCoins
+## Pull Requests
+
+to update the information use the gh-pages branch, edit the alts.csv table and run python makeTable.py.
+
+## AltCoin portal
 
 [AltCoins](alts.md)
 
